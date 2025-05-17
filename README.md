@@ -1,0 +1,1 @@
+# Modelos Seq2Seq No Autoregresivos (Non-Autoregressive Translation, NAT)
